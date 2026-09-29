@@ -1,0 +1,17 @@
+# STM32CubeIDE build output
+firmware/stm32/Debug/
+firmware/stm32/Release/
+
+# Compiled firmware artifacts
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.list
+*.su
+
+# Operating system metadata
+.DS_Store
+Thumbs.db

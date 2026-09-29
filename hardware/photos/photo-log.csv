@@ -1,0 +1,4 @@
+photo_id,filename,date,assembly_revision,view_or_subject,connectors_visible,purpose,photographer,status,notes
+PHOTO-001,TBD,TBD,TBD,full_system,TBD,overall hardware record,TBD,not_captured,Do not list until a photo exists
+PHOTO-002,TBD,TBD,TBD,sensor_node_and_inputs,TBD,show sensor node wiring and labels,TBD,not_captured,Include visible pin labels
+PHOTO-003,TBD,TBD,TBD,CAN_wiring,TBD,show bus topology and termination,TBD,not_captured,Include both bus endpoints

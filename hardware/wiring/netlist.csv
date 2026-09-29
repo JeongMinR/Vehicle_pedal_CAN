@@ -1,0 +1,8 @@
+net_id,from_node,from_pin,to_node,to_pin,signal,electrical_range,protection_or_termination,evidence,status
+NET-SEN-01,sensor_node,TBD,potentiometer,TBD,sensor_supply,TBD,TBD,datasheet_required,open
+NET-SEN-02,potentiometer,wiper,sensor_node,ADC_TBD,accelerator_analog,TBD,TBD,ADC_range_required,open
+NET-SEN-03,brake_button,TBD,sensor_node,GPIO_TBD,brake_switch,TBD,pull_up_down_TBD,switch_polarity_required,open
+NET-CAN-01,sensor_node_transceiver,CANH_CANL,CAN_bus,TBD,sensor_status_bus,TBD,termination_TBD,topology_required,open
+NET-CAN-02,CAN_bus,TBD,STM32_transceiver,CANH_CANL,shared_CAN_bus,TBD,termination_TBD,topology_required,open
+NET-CAN-03,STM32_CAN_peripheral,TX_RX,STM32_transceiver,TXD_RXD,logic_CAN,TBD,voltage_compatibility_required,board_pinout_required,open
+NET-CAN-04,CAN_bus,TBD,RC_car_receiver,TBD,brake_request_bus,TBD,termination_TBD,receiver_support_required,open

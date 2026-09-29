@@ -1,0 +1,1 @@
+rx_time_us,source_time,sample_counter,accel_value,accel_rate_per_s,rapid_accel,brake_pressed,brake_priority,brake_request_tx,quality_state

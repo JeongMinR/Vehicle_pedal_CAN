@@ -1,0 +1,2 @@
+run_id,date,operator,setup_revision,sensor_node_model,sensor_node_firmware,stm32_board,stm32_firmware,can_bitrate,can_frame_format,sensor_status_can_id,brake_request_can_id,sample_period,source_time_unit,accelerator_scale,threshold_config,bench_supply_and_limits,test_equipment,raw_file,processed_file,approval_status,notes
+RUN-TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,template_only,Replace this row with a real run record; no sensor measurements included

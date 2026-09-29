@@ -1,0 +1,6 @@
+component,manufacturer,part_number,document_title,revision_or_date,manufacturer_url,local_filename,redistribution_permission,reviewed_by,review_date,status,notes
+linear_potentiometer,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,open,Confirm resistance and voltage rating
+brake_button,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,open,Confirm contact type and electrical rating
+STM32_board,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,open,Record exact MCU and board
+CAN_transceiver,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,open,Confirm logic voltage and CAN physical layer
+RC_car_receiver_or_ESC,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,open,Confirm CAN support and brake behavior

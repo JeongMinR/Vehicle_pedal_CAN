@@ -1,0 +1,13 @@
+item,value,unit_or_format,source_or_decision,status,notes
+stm32_board,TBD,manufacturer_and_model,board_label_or_datasheet,open,STM32 is the main controller
+mcu_part_number,TBD,exact_part_number,chip_marking_or_datasheet,open,Do not infer from board family
+can_peripheral,TBD,CAN_or_FDCAN,MCU_datasheet,open,Check peripheral availability
+ide_version,TBD,version,tool_installation,open,Record CubeIDE version
+cubemx_version,TBD,version,tool_installation,open,Record code generator version
+compiler_version,TBD,version,build_log,open,Record toolchain version
+clock_configuration,TBD,clock_tree,project_ioc,open,Record source and measured/verified rate
+can_bit_timing,TBD,bitrate_and_sample_point,approved_CAN_ICD,open,Do not guess timing values
+sensor_ICD_revision,TBD,document_revision,docs_can_protocol_md,open,Incoming sensor frame contract
+brake_ICD_revision,TBD,document_revision,docs_can_protocol_md,open,Outgoing brake request contract
+firmware_version,TBD,tag_or_commit,version_control,open,Record tested build
+programmer_debugger,TBD,model_and_firmware,device_label,open,Record debug probe

@@ -1,0 +1,9 @@
+connector_id,pin_number,signal_name,direction,electrical_level_or_unit,mating_connector,mating_pin,verified_by,status,notes
+J-SENSOR-POT,TBD,pot_end_a,TBD,TBD,TBD,TBD,TBD,open,Match to actual sensor datasheet
+J-SENSOR-POT,TBD,pot_wiper,TBD,TBD,TBD,TBD,TBD,open,Sensor-node ADC input
+J-SENSOR-POT,TBD,pot_end_b,TBD,TBD,TBD,TBD,TBD,open,Match to actual sensor datasheet
+J-SENSOR-BRAKE,TBD,button_contact_a,TBD,TBD,TBD,TBD,TBD,open,Confirm NO or NC
+J-SENSOR-BRAKE,TBD,button_contact_b,TBD,TBD,TBD,TBD,TBD,open,Confirm pressed/released polarity
+J-CAN-SENSOR,TBD,CANH_CANL_reference,TBD,TBD,TBD,TBD,TBD,open,Record physical-layer pins
+J-CAN-STM32,TBD,CANH_CANL_reference,TBD,TBD,TBD,TBD,TBD,open,Record transceiver/module pinout
+J-CAN-RC,TBD,CANH_CANL_reference,TBD,TBD,TBD,TBD,TBD,open,Only if receiver supports CAN
